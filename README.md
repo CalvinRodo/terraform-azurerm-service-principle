@@ -1,7 +1,6 @@
 # Terraform Module for creating a Service Principle in Azure
 
-[![CircleCI](https://circleci.com/gh/CalvinRodo/az-service-principle-tf/tree/master.svg?style=svg)](https://circleci.com/gh/CalvinRodo/az-service-principle-tf/tree/master)
-
+[![CircleCI](https://circleci.com/gh/CalvinRodo/terraform-azurerm-service-principle.svg?style=svg)](https://circleci.com/gh/CalvinRodo/terraform-azurerm-service-principle)
 Usage: 
 
 ```hcl

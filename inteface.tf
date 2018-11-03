@@ -1,4 +1,6 @@
-variable "sp_name" {}
+variable "sp_name" {
+  description = "Display name"
+}
 
 variable "sp_least_privilidge" {
   description = "Use at own risk"
