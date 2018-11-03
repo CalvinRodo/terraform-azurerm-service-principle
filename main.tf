@@ -1,4 +1,3 @@
-
 resource "azurerm_azuread_application" "aks_app" {
   name = "${var.sp_name}"
 }

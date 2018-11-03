@@ -1,4 +1,3 @@
-
 output "aks_role_name" {
   value = "aks_sp_role"
 }
