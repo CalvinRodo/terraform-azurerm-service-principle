@@ -1,4 +1,3 @@
-
 output "sp_id" {
   description = "The id of the service principle"
   value       = "${azurerm_azuread_service_principal.aks_sp.id}"

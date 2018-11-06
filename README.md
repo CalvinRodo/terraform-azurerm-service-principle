@@ -10,3 +10,6 @@ module "sp" {
   sp_name: "Service-Principle-Name"
 }
 ```
+
+Based off of the following Repo: 
+https://github.com/lawrencegripper/azure-aks-terraform
