@@ -1,7 +1,3 @@
-output "aks_role_name" {
-  description = "Display name"
-  value       = "aks_sp_role"
-}
 
 output "sp_id" {
   description = "The id of the service principle"
